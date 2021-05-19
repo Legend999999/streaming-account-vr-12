@@ -20,4 +20,4 @@ jano.on("ready", () => {
   }, 2000);
 });
 //////////////// tokn lera da bne 
-jano.login("");
+jano.login("mfa.Bobu6tWuVABPXsUHuknVET9ESIqdk7T3hgJKMeJDQHlx5x4M28gcgZ8IHfOKtrdQUhE6haNKyPtlUqVn3ELu");
